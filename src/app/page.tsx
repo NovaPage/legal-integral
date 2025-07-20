@@ -23,7 +23,7 @@ const BALANCE_SRC = "/balance.jpg";
 
 // WhatsApp real:
 const WHATSAPP_LINK =
-  "https://wa.me/573001234567?text=Hola%20quiero%20asesoría%20legal%20con%20Legal%20Integral%20SAS";
+  "https://wa.me/573508245822?text=Hola%20quiero%20asesoría%20legal%20con%20Legal%20Integral%20SAS";
 
 export default function Home() {
   return (
