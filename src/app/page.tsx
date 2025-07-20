@@ -10,7 +10,7 @@ import {
   RiTeamFill,
   RiShieldCheckFill,
   RiScales3Fill,
-  RiGovernmentFill,
+  RiCarFill,
   RiUserHeartFill,
 } from "react-icons/ri";
 import { AppointmentForm } from "@/components/AppointmentForm";
@@ -174,7 +174,7 @@ export default function Home() {
 
           <ServiceCard
             title="Fotomultas y Multas de Tránsito"
-            icon={<RiGovernmentFill className="text-accent w-10 h-10 mb-4" />}
+            icon={<RiCarFill className="text-accent w-10 h-10 mb-4" />}
           >
             Asesoramos en casos de comparendos por foto detección y multas de tránsito.<br />
             <b>No pagues sin antes consultarnos.</b><br />
